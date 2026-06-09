@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fer14-massa
-- 👀 I’m a iniciant
-- 🌱 I’m currently learning ...
-
+- Sinistro
+- 
 
 
 
